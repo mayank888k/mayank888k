@@ -1,7 +1,7 @@
 <h3 align="center">Hii There, I'm Mayank👋</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank888k&label=Profile%20views&color=0e75b6&style=flat" alt="mayank888k" /> </p>
 
-<h5 align="left">I am an Artificial Intelligence enthusiast here is some info about me -</h5>
+<h4 align="left">I am an Artificial Intelligence enthusiast here is some info about me -</h4>
 
 - 🔭 I’m currently working on **Face Detection System**
 
