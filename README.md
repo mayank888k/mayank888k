@@ -3,9 +3,9 @@
 
 <h4 align="left">I am an Artificial Intelligence Enthusiast and here is some info about me -</h4>
 
-- 🔭 I’m currently working on **Face Detection System**
+- 🔭 I’m currently working on **My Own Programming Language**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
