@@ -13,7 +13,7 @@
 
 - 🥅 2021 Goals: **Contribute more to Open Source projects**
 
-- 📫 Contact me on **mayank963k@gmail.com**
+- 📫 Contact me on **monkey888talks@gmail.com**
 
 - ⚡ Fun fact **I am very skinny**
 
